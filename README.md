@@ -18,9 +18,8 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-a=int(input())
-b=int(input())
-print("Swapped values are:",b,a)
+![Screenshot 2024-04-15 132153](https://github.com/thunderantony/Swapping-two-values/assets/149364638/eb5a0004-6a67-47a6-9cac-ac6d149c4b77)
+
 
 
 ## RESULT:
