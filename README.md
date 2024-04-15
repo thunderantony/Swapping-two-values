@@ -20,7 +20,7 @@ End the program
 ## PROGRAM:
 ![Screenshot 2024-04-15 132153](https://github.com/thunderantony/Swapping-two-values/assets/149364638/eb5a0004-6a67-47a6-9cac-ac6d149c4b77)
 
-##output
+## OUTPUT:
 ![Screenshot 2024-04-15 132224](https://github.com/thunderantony/Swapping-two-values/assets/149364638/0b1fb33c-a6ed-4376-9044-e052f051dbf6)
 
 ## RESULT:
